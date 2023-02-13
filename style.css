@@ -1,0 +1,44 @@
+h1 {
+    background-color: Blue;
+    border: 2px;
+}
+
+h4 {
+    font-size: 20px;
+    padding: 30%;
+    border-radius: 10px;
+}
+
+img {
+    float: left;
+    height: 30%;
+}
+
+h5{
+    height: 30px;
+    font-weight: 100;
+    color: brown;
+}
+
+ul{
+    color: green;
+    padding: 30%;
+    border: 20%;
+    background-color: blueviolet;
+}
+
+p {
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+table {
+    color: black;
+    float: right;
+}
+
+form {
+    color: black;
+    float: right;
+}
+
